@@ -1,0 +1,5 @@
+@media (max-width: 500px){
+    .all-nav .container a{
+        font-size:11px ;
+    }
+}
