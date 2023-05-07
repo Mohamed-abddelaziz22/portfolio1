@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.41cac260.css",
+    "main.js": "/portfolio1/static/js/main.bdfec481.js",
+    "static/media/original-mp4": "/portfolio1/static/media/original-03674dd034369cc7394c6698f283f3a2.358cc792f1cfb0a8859f.mp4",
+    "static/media/IMG_0827-removebg.png": "/portfolio1/static/media/IMG_0827-removebg.a348fb4277943061e9a2.png",
+    "static/media/fa-solid-900.ttf": "/portfolio1/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/portfolio1/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio1/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio1/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio1/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/digital-campaign.png": "/portfolio1/static/media/digital-campaign.4a63f5c993bd358d6079.png",
+    "static/media/19362653.jpg": "/portfolio1/static/media/19362653.906061050a1e2effa76c.jpg",
+    "static/media/fa-regular-400.woff2": "/portfolio1/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/coding.png": "/portfolio1/static/media/coding.979c9575f870084b8ddc.png",
+    "static/media/fa-v4compatibility.ttf": "/portfolio1/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio1/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/portfolio1/index.html",
+    "main.41cac260.css.map": "/portfolio1/static/css/main.41cac260.css.map",
+    "main.bdfec481.js.map": "/portfolio1/static/js/main.bdfec481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cac260.css",
+    "static/js/main.bdfec481.js"
+  ]
+}
